@@ -1,6 +1,7 @@
 # Hi, I'm Venkidesh K V
 
 **Data Analyst | SQL | Python | Power BI**
+
 Kerala, India
 
 I turn raw, messy data into clean datasets, dashboards and reports that help businesses make decisions.
